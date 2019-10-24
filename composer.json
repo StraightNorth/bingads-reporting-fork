@@ -1,5 +1,5 @@
 {
-    "name": "microsoft/bingads",
+    "name": "straightnorth/bingads-reporting-fork",
     "description": "This project provides the PHP client library for the SOAP-based Bing Ads API at Microsoft.",
     "keywords": [ "php", "bingads", "bing ads", "microsoft advertising", "sdk" ],
     "license": "Apache-2.0",
